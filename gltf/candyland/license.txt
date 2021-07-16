@@ -1,0 +1,11 @@
+Model Information:
+* title:	'Candyland' - Static 3D Model
+* source:	https://sketchfab.com/3d-models/candyland-static-3d-model-4925335cdcc44756b77260f66a173c9b
+* author:	SenorSquid (https://sketchfab.com/senorsquid)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "'Candyland' - Static 3D Model" (https://sketchfab.com/3d-models/candyland-static-3d-model-4925335cdcc44756b77260f66a173c9b) by SenorSquid (https://sketchfab.com/senorsquid) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
