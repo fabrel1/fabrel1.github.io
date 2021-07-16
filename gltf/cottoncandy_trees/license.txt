@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cotton Candy Trees
+* source:	https://sketchfab.com/3d-models/cotton-candy-trees-24ac8d57add7458b818513417bc51c4e
+* author:	daand (https://sketchfab.com/daand)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cotton Candy Trees" (https://sketchfab.com/3d-models/cotton-candy-trees-24ac8d57add7458b818513417bc51c4e) by daand (https://sketchfab.com/daand) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
